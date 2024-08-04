@@ -18,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ### Main Page
 ![Screenshot_20240805_021635](https://github.com/user-attachments/assets/9ee79131-d995-48d1-a6b4-37be172af79b)
 
+#### Colors Page
+[Screen_recording_20240805_022016.webm](https://github.com/user-attachments/assets/bc87ceb0-a5b7-42b9-a01d-d3f69ac1d8b0)
+
