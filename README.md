@@ -23,5 +23,3 @@ samples, guidance on mobile development, and a full API reference.
 
 
 #### Family Members Page
-https://github.com/user-attachments/assets/987898e9-53a0-4cbb-a9cb-7eb74a1282f8
-
