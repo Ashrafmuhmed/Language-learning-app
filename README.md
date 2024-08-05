@@ -30,7 +30,7 @@ samples, guidance on mobile development, and a full API reference.
 [Screen_recording_20240805_134246.webm](https://github.com/user-attachments/assets/0d48b32d-c7e5-48b6-9a55-62e13a54ec13)
 
 ### phrases Page
-
+[Screen_recording_20240805_134416.webm](https://github.com/user-attachments/assets/c6f32164-0a35-4743-9af3-f91e17a96a4a)
 ### Numbers Page
 
 [Screen_recording_20240805_134503.webm](https://github.com/user-attachments/assets/1ab7708d-3982-4b21-b15c-2598f346639d)
